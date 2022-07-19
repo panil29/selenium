@@ -1,0 +1,41 @@
+
+public class IndianTraffic implements CentralTraffic,ContinentalTraffic {
+public static void main(String[] args)
+{
+	CentralTraffic a=new IndianTraffic();
+	IndianTraffic b=new IndianTraffic();
+	ContinentalTraffic c=new IndianTraffic();
+	a.redStop();
+	a.greenGo();
+	a.FlashYellow();
+	b.WalkonSymbol();
+	c.TrainSymbol();
+	
+}
+public void  WalkonSymbol()
+{
+	System.out.println("wlaking symbol");
+}
+@Override
+public void greenGo() {
+	// TODO Auto-generated method stub
+	System.out.println("green go implemntation");
+}
+
+@Override
+public void redStop() {
+	// TODO Auto-generated method stub
+	System.out.println("redstop implementation");
+}
+
+@Override
+public void FlashYellow() {
+	// TODO Auto-generated method stub
+	System.out.println("yellow flash implementation");
+}
+@Override
+public void TrainSymbol() {
+	// TODO Auto-generated method stub
+	System.out.println("Trainsymbolimplemetation");
+}
+}

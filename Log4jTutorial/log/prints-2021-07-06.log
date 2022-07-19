@@ -1,0 +1,9 @@
+21:22:50.604 [main] FATAL Midhun.Demo1 - this is fatal
+21:24:23.282 [main] DEBUG Midhun.Demo1 - i am debugging
+21:24:23.291 [main] INFO  Midhun.Demo1 - object is present
+21:24:23.293 [main] ERROR Midhun.Demo1 - object is not present
+21:24:23.293 [main] FATAL Midhun.Demo1 - this is fatal
+21:24:47.045 [main] DEBUG Midhun.Demo1 - i am debugging
+21:24:47.052 [main] INFO  Midhun.Demo1 - object is present
+21:24:47.052 [main] ERROR Midhun.Demo1 - object is not present
+21:24:47.053 [main] FATAL Midhun.Demo1 - this is fatal

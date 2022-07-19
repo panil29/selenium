@@ -1,0 +1,9 @@
+19:28:06.707 [main] DEBUG Anil.Demo - i have clicked on button
+19:28:06.712 [main] INFO  Anil.Demo - Button is displayed
+19:28:06.712 [main] ERROR Anil.Demo - button is not displayed
+19:28:06.712 [main] FATAL Anil.Demo - button is missing
+19:28:42.210 [main] DEBUG Anil.Demo - i have clicked on button
+19:28:42.214 [main] INFO  Anil.Demo - Button is displayed
+19:28:42.214 [main] ERROR Anil.Demo - button is not displayed
+19:28:42.214 [main] FATAL Anil.Demo - button is missing
+19:32:20.165 [main] DEBUG Anil.Demo - i have clicked on button

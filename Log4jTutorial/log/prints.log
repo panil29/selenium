@@ -1,0 +1,7 @@
+09:37:39.315 [main] INFO  Midhun.Demo1 - object is present
+09:37:39.324 [main] ERROR Midhun.Demo1 - object is not present
+09:37:39.325 [main] FATAL Midhun.Demo1 - this is fatal
+09:37:56.977 [main] DEBUG Anil.Demo - i have clicked on button
+09:37:56.979 [main] INFO  Anil.Demo - Button is displayed
+09:37:56.980 [main] ERROR Anil.Demo - button is not displayed
+09:37:56.980 [main] FATAL Anil.Demo - button is missing

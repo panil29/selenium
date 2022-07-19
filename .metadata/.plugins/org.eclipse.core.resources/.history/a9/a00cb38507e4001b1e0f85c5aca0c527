@@ -1,0 +1,16 @@
+
+public class FOOAirLine extends ParentAirCraft {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ParentAirCraft pa=new FOOAirLine(); 
+	}
+
+	@Override
+	public void bodyColor() {
+		// TODO Auto-generated method stub
+		System.out.println("color implemenation");
+	}
+
+}
